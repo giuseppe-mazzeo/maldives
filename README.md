@@ -2,18 +2,18 @@
 
 <img width="1901" height="394" alt="Image" src="https://github.com/user-attachments/assets/209b0d57-9af2-46a2-a616-6fb9ab3fba8d"/> <br>
 
-O Maldives é um projeto front-end desenvolvido com o objetivo de praticar animações e interações com o plugin ScrollTrigger do GSAP.
+Maldives is a front-end project developed with the aim of practicing animations and interactions with the GSAP ScrollTrigger plugin.
 
-O foco principal foi explorar animações baseadas no scroll, criando uma experiência visual mais dinâmica e imersiva.
-
-<br>
-
-## Projeto Online
-🔗 [Acessar Projeto](https://projeto-maldives.github.io/) 
+The main focus was to explore scroll-based animations, creating a more dynamic and immersive visual experience.
 
 <br>
 
-## Tecnologias
+## Online Project
+🔗 [Access Project](https://projeto-maldives.github.io/) 
+
+<br>
+
+## Technologies
 
 - HTML5
 - CSS3
@@ -22,9 +22,9 @@ O foco principal foi explorar animações baseadas no scroll, criando uma experi
 
 <br>
 
-## Funcionalidades
+## Features
 
-- Animações baseadas em scroll (ScrollTrigger)
-- Layout moderno e visual imersivo
-- Design responsivo para diferentes tamanhos de tela
-- Experiência interativa fluida
+- Scroll-based animations (ScrollTrigger)
+- Modern and immersive visual layout
+- Responsive design for different screen sizes
+- Smooth interactive experience
