@@ -38,8 +38,8 @@ The main focus was to explore scroll-based animations, creating a more dynamic a
 
 <br>
 
-## Author Project
+## Author 
 
-Developed by Gustavo Campelo. 
+Project developed by Gustavo Campelo. 
 
 🔗 [YouTube](https://www.youtube.com/@gucampelo)
