@@ -28,3 +28,18 @@ The main focus was to explore scroll-based animations, creating a more dynamic a
 - Modern and immersive visual layout
 - Responsive design for different screen sizes
 - Smooth interactive experience
+
+<br>
+
+## Learning
+
+- Creating animations with GSAP using the ScrollTrigger
+- Creating mask using CSS
+
+<br>
+
+## Author Project
+
+Developed by Gustavo Campelo. 
+
+🔗 [YouTube](https://www.youtube.com/@gucampelo)
